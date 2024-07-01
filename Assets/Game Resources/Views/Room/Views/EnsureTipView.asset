@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eef42a78adc2e848bb2e1aeefc92a6c, type: 3}
+  m_Name: EnsureTipView
+  m_EditorClassIdentifier: 
+  order: 0
+  viewName: EnsureTipView
+  level: 1
+  viewObjectPrefab: {fileID: 6264517230240070260, guid: 4f9c26f5e9cfb0e48b392d7a704b931f, type: 3}
+  transientTime: -1
+  initState: 0
+  forbid: 0
+  _dragInputConfigs: []
+  openTween: 1
+  openDuration: -1
+  closeTween: 0
+  closeDuration: -1
+  isMaster: 0
+  master: 
+  root: 
+  nestedViews: []
+  _cancelBtnName: ~Cancel_Btn
+  _sureBtnName: ~Sure_Btn
+  _contentName: ~Message
+  _titleName: ~Title

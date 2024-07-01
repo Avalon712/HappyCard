@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Room.unity
     guid: 212558c13a50a784ebe4f1d7b893b97f
   - enabled: 1
-    path: Assets/Scenes/Game.unity
+    path: Assets/Scenes/Game_FightLandlord.unity
     guid: 00a0cc1493a7dd445b484ec6acc503d8
+  - enabled: 1
+    path: Assets/Scenes/Playback.unity
+    guid: 5b9c9422d7d02cd4b90b07a73df8d901
   m_configObjects: {}

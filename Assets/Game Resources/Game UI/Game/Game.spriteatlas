@@ -53,6 +53,7 @@ SpriteAtlas:
     - 4adc7e705e2ec0c45a23fcd2ebdfd1c3: 21300000
     - c7036b61f2ceabf4f8e584a6fa3d5d4d: 21300000
     - 349a6981fdca9dc47af8a74af786f179: 21300000
+    - d9496b22d524f904d9cb0992d90560b5: 21300000
     - aae4c142984f54f42bb7656a2371036f: 21300000
     - f6254e729fe423649b84519c2df86887: 21300000
     - a06976a22bfd0204daf64748b69b3634: 21300000
@@ -121,6 +122,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 4adc7e705e2ec0c45a23fcd2ebdfd1c3, type: 3}
   - {fileID: 21300000, guid: c7036b61f2ceabf4f8e584a6fa3d5d4d, type: 3}
   - {fileID: 21300000, guid: 349a6981fdca9dc47af8a74af786f179, type: 3}
+  - {fileID: 21300000, guid: d9496b22d524f904d9cb0992d90560b5, type: 3}
   - {fileID: 21300000, guid: aae4c142984f54f42bb7656a2371036f, type: 3}
   - {fileID: 21300000, guid: f6254e729fe423649b84519c2df86887, type: 3}
   - {fileID: 21300000, guid: a06976a22bfd0204daf64748b69b3634, type: 3}
@@ -188,6 +190,7 @@ SpriteAtlas:
   - Slider02_Fill_Orange
   - Icon_PictoIcon_Continue
   - clock
+  - btn_tip
   - Icon_PictoIcon_Wifi
   - setting
   - frame2

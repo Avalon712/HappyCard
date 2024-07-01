@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3508b5411c58e494a88384fd135090bd, type: 3}
+  m_Name: FriendInvitNotifyView
+  m_EditorClassIdentifier: 
+  order: 0
+  viewName: FriendInvitNotifyView
+  level: 0
+  viewObjectPrefab: {fileID: 7180687633885317189, guid: 79ccd7533fe733e42b972ca26df00581, type: 3}
+  transientTime: 10
+  initState: 0
+  forbid: 0
+  _dragInputConfigs: []
+  openTween: 5
+  openDuration: -1
+  closeTween: 9
+  closeDuration: -1
+  isMaster: 0
+  master: 
+  root: 
+  nestedViews: []

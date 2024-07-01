@@ -101,30 +101,30 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 2c00ca3fe0321c54cbf501e5ebb4d6fc, type: 3}
   - {fileID: 21300000, guid: 78ed16ff0725a464b912e8ba558a96d5, type: 3}
   m_PackedSpriteNamesToIndex:
-  - icon-test_11
-  - icon-test_13
-  - icon-test_15
-  - icon-test_18
-  - icon-test_16
-  - icon-test_2
-  - icon-test_14
-  - icon-test_8
-  - icon-test_4
-  - icon-test_5
-  - icon-test
-  - icon-test_3
-  - icon-test_19
-  - icon-test_6
-  - icon-test_10
-  - icon-test_12
-  - icon-test_7
-  - icon-test_1
-  - icon-test_9
-  - default
-  - monster
-  - icon-test_17
-  - skull
-  - king
+  - default15
+  - default17
+  - default19
+  - default22
+  - default20
+  - default6
+  - default18
+  - default12
+  - default8
+  - default9
+  - default4
+  - default7
+  - default23
+  - default10
+  - default14
+  - default16
+  - default11
+  - default5
+  - default13
+  - default0
+  - default2
+  - default21
+  - default3
+  - default1
   m_RenderDataMap: {}
   m_Tag: HeadIcon
   m_IsVariant: 0

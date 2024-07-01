@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d64c9c48814db4aaf2b33b19344086, type: 3}
+  m_Name: Canvas
+  m_EditorClassIdentifier: 
+  canvasName: Canvas
+  views:
+  - {fileID: 11400000, guid: b93d398adf63d0a40983e3deda0e51a4, type: 2}
+  - {fileID: 11400000, guid: 49038fa96ddadaf42bd46b327556822d, type: 2}
+  - {fileID: 11400000, guid: 26bbe3cca9389614886244963101ca48, type: 2}
+  - {fileID: 11400000, guid: 8a9b35560872b8b4abb47ce9321c9703, type: 2}

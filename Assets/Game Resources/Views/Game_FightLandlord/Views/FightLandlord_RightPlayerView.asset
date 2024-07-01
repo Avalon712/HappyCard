@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8844408887867499385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53f242421049a804596e53198e856411, type: 3}
+  m_Name: RightShowOutCardsView
+  m_EditorClassIdentifier: 
+  order: 0
+  viewName: RightShowOutCardsView
+  level: 3
+  viewObjectPrefab: {fileID: 0}
+  transientTime: -1
+  initState: 1
+  forbid: 0
+  _dragInputConfigs: []
+  openTween: 0
+  openDuration: -1
+  closeTween: 0
+  closeDuration: -1
+  isMaster: 0
+  master: 
+  root: FightLandlord_RightPlayerView
+  nestedViews: []
+  _content: RightShowOutCardsView
+--- !u!114 &-3418424670873612139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3508b5411c58e494a88384fd135090bd, type: 3}
+  m_Name: RightBoutStateView
+  m_EditorClassIdentifier: 
+  order: 0
+  viewName: RightBoutStateView
+  level: 3
+  viewObjectPrefab: {fileID: 0}
+  transientTime: -1
+  initState: 1
+  forbid: 0
+  _dragInputConfigs: []
+  openTween: 0
+  openDuration: -1
+  closeTween: 0
+  closeDuration: -1
+  isMaster: 0
+  master: 
+  root: FightLandlord_RightPlayerView
+  nestedViews: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3508b5411c58e494a88384fd135090bd, type: 3}
+  m_Name: FightLandlord_RightPlayerView
+  m_EditorClassIdentifier: 
+  order: 1
+  viewName: FightLandlord_RightPlayerView
+  level: 3
+  viewObjectPrefab: {fileID: 6916645453216399658, guid: c8653bf79dcc7564b9503ec472dd60b4, type: 3}
+  transientTime: -1
+  initState: 1
+  forbid: 0
+  _dragInputConfigs: []
+  openTween: 0
+  openDuration: -1
+  closeTween: 0
+  closeDuration: -1
+  isMaster: 0
+  master: 
+  root: 
+  nestedViews:
+  - {fileID: -3418424670873612139}
+  - {fileID: -8844408887867499385}
+  - {fileID: 6824772465907390601}
+--- !u!114 &6824772465907390601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3508b5411c58e494a88384fd135090bd, type: 3}
+  m_Name: RightTimerView
+  m_EditorClassIdentifier: 
+  order: 0
+  viewName: RightTimerView
+  level: 1
+  viewObjectPrefab: {fileID: 0}
+  transientTime: -1
+  initState: 0
+  forbid: 0
+  _dragInputConfigs: []
+  openTween: 0
+  openDuration: -1
+  closeTween: 0
+  closeDuration: -1
+  isMaster: 0
+  master: 
+  root: FightLandlord_RightPlayerView
+  nestedViews: []

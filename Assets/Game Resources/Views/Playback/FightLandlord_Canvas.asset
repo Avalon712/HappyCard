@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d64c9c48814db4aaf2b33b19344086, type: 3}
+  m_Name: FightLandlord_Canvas
+  m_EditorClassIdentifier: 
+  canvasName: Canvas
+  views:
+  - {fileID: 11400000, guid: 9363dd48b6ef6e24e9458ee0db3a2251, type: 2}
+  - {fileID: 11400000, guid: a8823be1ebb49364da5cba47592e332a, type: 2}
